@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.386,C:\Users\jensa\Borland\Project1PCH1.h=C:\Users\jensa\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.742,=C:\Users\jensa\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.089,F:\TAIF\TAIF statGet\Unit2.h=F:\TAIF\TAIF statGet\treeForm.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.628,=C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Lib\x64\WinInet.Lib</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.557,=C:\Program Files (x86)\Embarcadero\RAD Studio\8.0\lib\win32\release\psdk\wininet.lib</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.230,F:\TAIF\TAIF statGet\treeForm.h=F:\TAIF\TAIF statGet\tree.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.711,C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Lib\x64\WinInet.Lib=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.759,=C:\Users\jensa\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.266,=C:\Projects\TAIF statGet\win7 lib\wininet.lib</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.089,F:\TAIF\TAIF statGet\Unit2.dfm=F:\TAIF\TAIF statGet\treeForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.500,C:\Users\jensa\Borland\Unit1.h=C:\Users\jensa\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.230,F:\TAIF\TAIF statGet\treeForm.dfm=F:\TAIF\TAIF statGet\tree.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.500,C:\Users\jensa\Borland\Unit1.cpp=C:\Users\jensa\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.500,C:\Users\jensa\Borland\Unit1.dfm=C:\Users\jensa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.230,F:\TAIF\TAIF statGet\treeForm.cpp=F:\TAIF\TAIF statGet\tree.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.112,F:\TAIF\TAIF statGet\wininet.lib=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.706,=F:\TAIF\TAIF statGet\wininet.lib</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.616,=F:\TAIF\TAIF statGet\wininet.lib</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.286,F:\TAIF\TAIF statGet\wininet.lib=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.901,F:\TAIF\TAIF statGet\TAIF StatGetPCH1.h=F:\TAIF\TAIF statGet\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.412,F:\TAIF\TAIF statGet\Unit1.h=F:\TAIF\TAIF statGet\Main.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.085,C:\Users\jensa\Borland\Project1.cbproj=C:\Users\jensa\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.738,=F:\TAIF\TAIF statGet\wininet.lib</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.860,=C:\Program Files (x86)\Embarcadero\Studio\17.0\lib\win32\release\psdk\wininet.lib</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.412,F:\TAIF\TAIF statGet\Unit1.dfm=F:\TAIF\TAIF statGet\Main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.915,F:\TAIF\TAIF statGet\TAIF StatGet.cbproj=F:\TAIF\TAIF statGet\Project1.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.959,C:\Program Files (x86)\Embarcadero\Studio\17.0\lib\win32\release\psdk\wininet.lib=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.412,F:\TAIF\TAIF statGet\Unit1.cpp=F:\TAIF\TAIF statGet\Main.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.089,F:\TAIF\TAIF statGet\Unit2.cpp=F:\TAIF\TAIF statGet\treeForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.315,=F:\TAIF\TAIF statGet\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
